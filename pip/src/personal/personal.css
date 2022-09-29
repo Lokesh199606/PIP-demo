@@ -1,0 +1,16 @@
+.mainContentDiv {
+    border: 1px solid #EBEBEB;
+    height: 21.5rem;
+    margin-top: 0.6rem;
+    overflow-y: auto;
+    background-color: #E6E6E6;
+    clear:both;
+    overflow-x:hidden;
+}
+
+.formCss {
+    margin-top:0.1rem;
+    margin-bottom:0.1rem;
+    width:100%;
+}
+
